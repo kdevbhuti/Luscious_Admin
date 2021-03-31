@@ -1,4 +1,4 @@
-import "../css/admin.css";
+import "../../css/admin.css";
 import React from "react";
 
 const Admin = ()=>{
@@ -80,7 +80,7 @@ const Admin = ()=>{
                             <button onClick={handleAddInput}>Next</button>
                         </div>
                         <div className="preparationVideo_div">
-                            <h4>Enter url of method of cooking</h4>
+                            <h4>Enter url of video</h4>
                             <input type="text" onChange={handleChangeState} required name="preparationVideo"></input>
                         </div>   
                     </div>
