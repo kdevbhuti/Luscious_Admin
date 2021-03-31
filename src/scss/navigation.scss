@@ -1,0 +1,11 @@
+@import "./theam.scss";
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .logo {
+    height: 2.5rem;
+    width: 6rem;
+  }
+}
