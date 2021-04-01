@@ -1,5 +1,5 @@
 
-import Admin from "./Components/Admin";
+import Admin from "./Components/Admin/Admin";
 import Navigation from "./Components/Navigation"
 
 function App() {
